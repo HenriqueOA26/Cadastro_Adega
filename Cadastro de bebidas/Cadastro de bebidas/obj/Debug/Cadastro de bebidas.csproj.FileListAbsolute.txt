@@ -1,0 +1,7 @@
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\bin\Debug\Cadastro de bebidas.exe.config
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\bin\Debug\Cadastro de bebidas.exe
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\bin\Debug\Cadastro de bebidas.pdb
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\obj\Debug\Cadastro de bebidas.csproj.AssemblyReference.cache
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\obj\Debug\Cadastro de bebidas.csproj.CoreCompileInputs.cache
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\obj\Debug\Cadastro de bebidas.exe
+C:\Users\henrique.oandreotti\Documents\Centro_Pokemon\Cadastro de bebidas\Cadastro de bebidas\obj\Debug\Cadastro de bebidas.pdb
